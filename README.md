@@ -39,7 +39,7 @@ stack-overflow-developer-survey-2022.zip/survey_results_public.csv
 
 ### Results
 
-The key findings of the Code can be found in the article available [here](https://medium.com/@martinpertz/how-is-the-development-of-the-programming-language-python-in-germany-bdd5e86ef426)
+The key findings of the Code can be found in the article available [here](https://medium.com/@martinpertz/how-is-the-development-of-the-programming-language-python-in-germany-bdd5e86ef426).
 
 ### Licensing, Authors, Acknowledgements
 
