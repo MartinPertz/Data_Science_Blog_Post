@@ -39,8 +39,8 @@ stack-overflow-developer-survey-2022.zip/survey_results_public.csv
 
 ### Results
 
-The main findings of the code can be found at the post available here.
+The key findings of the Code can be found in the article available [here](https://medium.com/@martinpertz/how-is-the-development-of-the-programming-language-python-in-germany-bdd5e86ef426)
 
 ### Licensing, Authors, Acknowledgements
 
-Must give credit to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](https://insights.stackoverflow.com/survey).
+At this point, respect to Stackoverflow for collecting the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](https://insights.stackoverflow.com/survey).
