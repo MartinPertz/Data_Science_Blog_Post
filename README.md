@@ -32,10 +32,8 @@ This is the Udacity Nanodegree Project Writing a Data Scientist blog post. My in
 
 ### File Description
 
-PythonAnalysis.ipynb: Notebook containing the data analysis.  
-data/2020/survey_results_public.csv: Stackoverflow's 2020 Annual Developer Survey data.   
-data/2021/survey_results_public.csv: Stackoverflow's 2021 Annual Developer Survey data.  
-data/2022/survey_results_public.csv: Stackoverflow's 2022 Annual Developer Survey data.  
+Data_Science_Blog_Post.ipynb: Notebook containing the data analysis.  
+...  
 
 ### Results
 
