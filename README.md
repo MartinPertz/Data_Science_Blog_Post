@@ -13,12 +13,12 @@ This is a Udacity Nanodegree Data Scientist Project.
 ### Installation
 
 The program code runs under Python 3.*. It requires the following Python libraries:  
-import numpy  
-import pandas  
-from collections import Counter  
-import matplotlib.pyplot  
-import seaborn  
-import warnings  
+numpy  
+pandas  
+collections Counter  
+matplotlib.pyplot  
+seaborn  
+warnings  
 
 The required Stackoverflow Annual Developer Survey data for 2020, 2021, 2022 is available for download [here](https://insights.stackoverflow.com/survey).
 
@@ -32,8 +32,10 @@ This is the Udacity Nanodegree Project Writing a Data Scientist blog post. My in
 
 ### File Description
 
-Data_Science_Blog_Post.ipynb: Notebook containing the data analysis.  
-...  
+Data_Science_Blog_Post.ipynb: datas are from https://insights.stackoverflow.com/survey:  
+stack-overflow-developer-survey-2020.zip/survey_results_public.csv
+stack-overflow-developer-survey-2021.zip/survey_results_public.csv
+stack-overflow-developer-survey-2022.zip/survey_results_public.csv
 
 ### Results
 
