@@ -43,4 +43,4 @@ The key findings of the Code can be found in the article available [here](https:
 
 ### Licensing, Authors, Acknowledgements
 
-At this point, respect to Stackoverflow for collecting the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](https://insights.stackoverflow.com/survey).
+At this point, respect to Stackoverflow for collecting the data. Licensing for the data and other descriptive information can be found at the stackoverflow link available [here](https://insights.stackoverflow.com/survey).
