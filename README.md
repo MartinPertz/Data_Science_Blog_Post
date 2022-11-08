@@ -15,6 +15,7 @@ This is a Udacity Nanodegree Data Scientist Project.
 The program code runs under Python 3.*. It requires the following Python libraries:  
 numpy  
 pandas  
+zipfile  
 collections Counter  
 matplotlib.pyplot  
 seaborn  
