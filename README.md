@@ -13,12 +13,12 @@ This is a Udacity Nanodegree Data Scientist Project.
 ### Installation
 
 The program code runs under Python 3.*. It requires the following Python libraries:  
-import numpy  
-import pandas  
-from collections import Counter  
-import matplotlib.pyplot  
-import seaborn  
-import warnings  
+numpy  
+pandas  
+collections Counter  
+matplotlib.pyplot  
+seaborn  
+warnings  
 
 The required Stackoverflow Annual Developer Survey data for 2020, 2021, 2022 is available for download [here](https://insights.stackoverflow.com/survey).
 
@@ -32,15 +32,15 @@ This is the Udacity Nanodegree Project Writing a Data Scientist blog post. My in
 
 ### File Description
 
-PythonAnalysis.ipynb: Notebook containing the data analysis.  
-data/2020/survey_results_public.csv: Stackoverflow's 2020 Annual Developer Survey data.   
-data/2021/survey_results_public.csv: Stackoverflow's 2021 Annual Developer Survey data.  
-data/2022/survey_results_public.csv: Stackoverflow's 2022 Annual Developer Survey data.  
+Data_Science_Blog_Post.ipynb: the datas are from [Stackoverflow](https://insights.stackoverflow.com/survey):    
+stack-overflow-developer-survey-2020/survey_results_public.csv from stack-overflow-developer-survey-2020.zip  
+stack-overflow-developer-survey-2021/survey_results_public.csv from stack-overflow-developer-survey-2021.zip  
+stack-overflow-developer-survey-2022/survey_results_public.csv from stack-overflow-developer-survey-2022.zip  
 
 ### Results
 
-The main findings of the code can be found at the post available here.
+The key findings of the Code can be found in the article available [here](https://medium.com/@martinpertz/how-is-the-development-of-the-programming-language-python-in-germany-bdd5e86ef426).
 
 ### Licensing, Authors, Acknowledgements
 
-Must give credit to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](https://insights.stackoverflow.com/survey).
+At this point, respect to Stackoverflow for collecting the data. Licensing for the data and other descriptive information can be found at the stackoverflow link available [here](https://insights.stackoverflow.com/survey).
