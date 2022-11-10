@@ -19,9 +19,8 @@ zipfile
 collections Counter  
 matplotlib.pyplot  
 seaborn  
-warnings  
 
-The required Stackoverflow Annual Developer Survey data for 2020, 2021, 2022 is available for download [here](https://insights.stackoverflow.com/survey).
+The required Stackoverflow Annual Developer Survey data for 2020, 2021, 2022 are available for download [here](https://insights.stackoverflow.com/survey).
 
 ### Project Motivation
 
@@ -29,7 +28,8 @@ This is the Udacity Nanodegree Project Writing a Data Scientist blog post. My in
 
 1. How has the use of the Python programming language developed in Germany in recent years?  
 2. How has the popularity of the Python programming language developed in Germany in recent years?
-3. How does the Python programming language used at work currently relate to programming languages that people want to learn?
+3. How does the Python programming language used at work currently relate to programming languages that user want to learn?
+4. How popular is Python among users who currently use other programming languages?
 
 ### File Description
 
